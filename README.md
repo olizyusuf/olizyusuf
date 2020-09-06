@@ -1,6 +1,6 @@
 ### Hi i'm Nurkholis Yusuf and now i'm learning to be Web Developer.
 
-# Front End Web Developer
+# Web Developer
 
 Here are some ideas to get you started:
 
