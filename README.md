@@ -1,4 +1,4 @@
-### Hi i'm Nurkholis Yusuf and now i'm learning to be Front End Web Developer.
+### Hi i'm Nurkholis Yusuf and now i'm learning to be Web Developer.
 
 # Front End Web Developer
 
