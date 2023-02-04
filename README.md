@@ -1,9 +1,9 @@
 ### Hi i'm Nurkholis Yusuf
 
-- 🔭 I’m currently working Field Engineer on Retail and Industry Solution Company Branch Yogyakarta
-- 🌱 I’m currently focus Mobile Developer using Flutter.
-- 💬 Feel free for Ask me about Hardware and Software for Retail and Industry.
-- 📫 How to reach me: https://discordapp.com/users/olizyusuf or https://t.me/olizyusuf or emailme olizyusuf22@gmail.com
+- 🔭 I work as a Field Engineer in Solution Company for Retail(Point of Sales) and Industrial(Auto ID)
+- 🌱 Freelance Mobile Developer using Flutter
+- 💬 Feel free for Ask me about Hardware and Software for Retail and Industrial.
+- 📫 How to reach me, telegram: https://t.me/olizyusuf , email: olizyusuf22@gmail.com
 
 #### Tech Stack
 <a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" /></a>
