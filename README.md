@@ -10,4 +10,4 @@
 <a href="https://flutter.dev/"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" /></a>
 <a href="https://www.mysql.com/"><img align="left" alt="MySQL" title="MySQL" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg" /></a>
 <a href="https://www.php.com/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg" /></a>
-<a href="https://www.javascript.com/"><img align="left" alt="Javascript" title="Javascript" width="21px" src="[https://upload.wikimedia.org/wikipedia/commons/3/31/Webysther_20160423_-_Elephpant.svg](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)" /></a>
+<a href="https://www.javascript.com/"><img align="left" alt="Javascript" title="Javascript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" /></a>
