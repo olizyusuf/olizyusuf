@@ -1,7 +1,7 @@
 ### Hi i'm Nurkholis Yusuf
 
 - 🔭 I work as a Field Engineer in Solution Company for Retail(Point of Sales) and Industrial(Auto ID)
-- 🌱 Freelance Mobile Developer using Flutter
+- 🌱 Freelance Mobile Developer using Flutter | Portofolio : https://olizyusuf.my.id/portofolio/
 - 💬 Feel free for Ask me about Hardware and Software for Retail and Industrial.
 - 📫 How to reach me, telegram: https://t.me/olizyusuf , email: olizyusuf22@gmail.com
 
